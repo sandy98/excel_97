@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-from excel97_py import __version__
+from excel_97 import __version__
 
 setup(
     name='excel97_py',
