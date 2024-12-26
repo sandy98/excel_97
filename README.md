@@ -1,6 +1,6 @@
 # Excel 97/2003 Python Library
 
-# Warning! This is a pre-beta non-functional version. 
+# Warning! This project is being retired (archived), given the impossibility of advancing further right now. 
 
 This project provides a Python library to manipulate Excel 97/2003 spreadsheet files. It allows reading, writing, adding, and updating data in the spreadsheet.
 
