@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: excel97-py
-Version: 0.1.1
+Version: 0.1.2
 Summary: A Python library to manipulate Excel 97/2003 spreadsheet files
 Home-page: https://github.com/sandy98/dbase3-py
 Author: Domingo E. Savoretti
@@ -15,6 +15,8 @@ Description-Content-Type: text/markdown
 License-File: LICENSE
 
 # Excel 97/2003 Python Library
+
+# Warning! This is a pre-beta non-functional version. 
 
 This project provides a Python library to manipulate Excel 97/2003 spreadsheet files. It allows reading, writing, adding, and updating data in the spreadsheet.
 
